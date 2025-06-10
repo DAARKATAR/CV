@@ -1,0 +1,89 @@
+body{
+     background-image: url(https://www.bypeople.com/wp-content/uploads/2015/05/css-dark-chain-background.png);
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#container{
+     background-image: url(https://preview.redd.it/how-can-i-replicate-this-css-for-the-background-of-my-v0-4sij7aw37zyd1.png?auto=webp&s=72749b4bddfe34082f1c1167fb5831c76f2d6129);
+     width: 80%;
+     margin: 0px auto;
+     border: 4px dashed ;
+}
+header{
+     text-align: center;
+     line-height: 60px;
+     background-color: rgba(0,0,0,83%);
+     color: lightgray;
+     width: 99,9%;
+     height: 80px;
+     margin-top: 0px;
+     border: 4px dashed lightgray;
+     border-bottom-right-radius: 20%;
+     border-bottom-left-radius: 20%; 
+}
+
+#Linkedin{
+     text-align: center  ;
+    
+}
+#text{
+    background-color: rgba(14, 90, 172, 70%);
+     width: 130px;
+     height: 60px;
+     text-align: center;
+     line-height: 60px;
+     margin: auto;
+     border-top-left-radius: 25%;
+     border-top-right-radius: 25%;
+     border-bottom-left-radius: 25%;
+     border-bottom-right-radius: 25%;
+
+}
+img{
+     background-color:rgba(180, 191, 180, 70%);
+     height: 100px;
+     border-radius: 20%;
+}
+.article{
+     text-align: center;
+     border-top: 4px dashed;
+     border-bottom: 4px dashed;
+}
+h2{
+     text-align: center;
+     line-height: 60px;
+     background-color: rgba(173, 171, 171, 0.7);
+     width: auto;
+     height: 60px;
+     margin: auto;
+     border-bottom-left-radius: 70%;
+     border-bottom-right-radius: 70%;
+     
+}
+p{
+     background-color: lightgray;
+     width:auto;
+     height: auto;
+     margin-top: 10px;
+     margin-left: 60px;
+     margin-right: 60px;
+     border: 2px solid black;
+
+}
+
+footer{
+     background-color: gray;
+     text-align: center;
+     border-top-left-radius: 50%;
+     border-top-right-radius: 50%;
+
+}
+
+.animate__animated.animate__fadeInDown {
+  --animate-duration: 3s;
+}
+.animate__animated.animate__fadeIn {
+  --animate-duration: 6s;
+}
+.animate__animated.animate__fadeInLeft {
+  --animate-duration: 2s;
+}
